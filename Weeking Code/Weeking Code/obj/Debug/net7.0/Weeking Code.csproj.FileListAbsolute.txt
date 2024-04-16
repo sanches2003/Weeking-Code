@@ -1,0 +1,12 @@
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\bin\Debug\net7.0\Weeking Code.deps.json
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\bin\Debug\net7.0\Weeking Code.dll
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\bin\Debug\net7.0\Weeking Code.pdb
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.dll
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\refint\Weeking Code.dll
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\Weeking Code.pdb
+C:\Users\felip\OneDrive\Documentos\Toledo\2024\WEEK CODE\Weeking Code\Weeking Code\obj\Debug\net7.0\ref\Weeking Code.dll
