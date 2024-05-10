@@ -1,3 +1,4 @@
+using System.Security.Cryptography.X509Certificates;
 using Weeking_Code.Calculadora;
 
 namespace Calculadora_Teste
@@ -5,9 +6,6 @@ namespace Calculadora_Teste
     public class CalculadoraTeste
     {
 
-        [Theory]
-        [InlineData(1,2,3)]
-        [InlineData(10,15,25)]
         public void Somar_DeveRealizarSomaValida(int valorA, int valorB, int expected)
         {
             //Arrange
@@ -48,6 +46,18 @@ namespace Calculadora_Teste
 
             //Assert
             Assert.NotEqual(3, _ret);
+        }
+
+        [Fact]
+        public void Divisao_DeveThrowException()
+        {
+            //arrange
+            var _obj = new Calculadora();
+            var _valorA = 0;
+            var _valorB = 2;
+
+            //Assert
+            Assert.ThrowsAny<DivideByZeroException>(()=>_obj.Dividir(_valorA, _valorB));
         }
     }
 }

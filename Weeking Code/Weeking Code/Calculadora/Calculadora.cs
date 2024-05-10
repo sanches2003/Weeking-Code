@@ -8,7 +8,10 @@ namespace Weeking_Code.Calculadora
 {
     public class Calculadora
     {
-
+        public int Dividir(int valorA, int valorB)
+        {
+            return valorA / valorB;
+        }
         public int Multiplicar(int valorA, int valorB)
         {
             return valorA* valorB;
